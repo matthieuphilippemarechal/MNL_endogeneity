@@ -1,7 +1,9 @@
 We consider a Multinomial Logit with the following utility functions:
 
 U_walk = beta0_walk + beta1 * X_walk + beta2 * C_walk + eps_walk
+
 U_metro = beta0_metro + beta1 * X_metro + beta2 * C_metro + eps_metro
+
 U_car = beta0_car + beta1 * X_car + beta2 * C_car + eps_car
 
 X_m is the time for travelling using mode m and C_m is the cost for travelling using mode m. 
